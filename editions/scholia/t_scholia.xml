@@ -30,6 +30,39 @@
                         <p>⁑</p>
                     </div>
                 </div>
+                <div n="T_189r_2" type="scholion">
+                    <div n="lemma">
+                        <p><num value="?">?</num><unclear>οἴκαδ᾽ἰμεν</unclear></p>
+                    </div>
+                    <div n="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.T:17.@εἰ γὰρ νῦν Τρώεσσιν</p>
+                    </div>
+                    <div n="comment">
+                        <p>απειλήσας τὴν ἐπάνοδον, πάλιν προτρέπει ἐπὶ τὴν βοήθειαν~ ὄρυξομένου καὶ κηδομεν ού ἐμφαίνων διάθεσιν⁑</p>
+                    </div>
+                </div>
+                <div n="T_189r_1" type="scholion">
+                    <div n="lemma">
+                        <p><num value="?"></num></p>
+                    </div>
+                    <div n="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.T:17.155@τοίου γὰρ θεράπῶν</p>
+                    </div>
+                    <div n="comment">
+                        <p>τεχνικῆς μέγα δείκνυσι τὸ κατόρθωμα προτρέπων αὐτούς⁑</p>
+                    </div>
+                </div>
+                <div n="T_189r_1" type="scholion">
+                    <div n="lemma">
+                        <p><num value="?"></num></p>
+                    </div>
+                    <div n="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.T:17.155@</p>
+                    </div>
+                    <div n="comment">
+                        <p>⁑</p>
+                    </div>
+                </div>
             </body>
         </text>
         </group>
