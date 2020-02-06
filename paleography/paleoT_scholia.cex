@@ -1,0 +1,32 @@
+observation#text#image#comments
+<!-- NB: the urns in the observation field are currently still Venetus B, this needs to be the Townley --!>
+urn:cite2:hmt:paleo.v1:leiden_vb_1#urn:cts:greekLit:tlg0012.tlg001.msB:17.151@ει#urn:cite2:hmt:burney86.v1:burney_ms_86_f189v@0.1382,0.07732,0.01165,0.01153#ει ligature
+urn:cite2:hmt:paleo.v1:leiden_vb_1#urn:cts:greekLit:tlg0012.tlg001.msB:17.151@γ#urn:cite2:hmt:burney86.v1:burney_ms_86_f189v@0.1482,0.08057,0.007155,0.007310#
+urn:cite2:hmt:paleo.v1:leiden_vb_1#urn:cts:greekLit:tlg0012.tlg001.msB:17.151@α#urn:cite2:hmt:burney86.v1:burney_ms_86_f189v@0.1539,0.07765,0.008177,0.007960#
+urn:cite2:hmt:paleo.v1:leiden_vb_1#urn:cts:greekLit:tlg0012.tlg001.msB:17.151@ρ#urn:cite2:hmt:burney86.v1:burney_ms_86_f189v@0.1607,0.08122,0.008177,0.006985#
+urn:cite2:hmt:paleo.v1:leiden_vb_1#urn:cts:greekLit:tlg0012.tlg001.msB:17.151@ν#urn:cite2:hmt:burney86.v1:burney_ms_86_f189v@0.1686,0.08025,0.009403,0.006335#
+urn:cite2:hmt:paleo.v1:leiden_vb_1#urn:cts:greekLit:tlg0012.tlg001.msB:17.151@υ#urn:cite2:hmt:burney86.v1:burney_ms_86_f189v@0.1783,0.08090,0.009403,0.005361#
+urn:cite2:hmt:paleo.v1:leiden_vb_1#urn:cts:greekLit:tlg0012.tlg001.msB:17.151@ν#urn:cite2:hmt:burney86.v1:burney_ms_86_f189v@0.1848,0.08025,0.009199,0.006173#
+urn:cite2:hmt:paleo.v1:leiden_vb_1#urn:cts:greekLit:tlg0012.tlg001.msB:17.151@τ#urn:cite2:hmt:burney86.v1:burney_ms_86_f189v@0.1946,0.08008,0.01002,0.006660#
+urn:cite2:hmt:paleo.v1:leiden_vb_1#urn:cts:greekLit:tlg0012.tlg001.msB:17.151@ρ#urn:cite2:hmt:burney86.v1:burney_ms_86_f189v@0.2030,0.08073,0.008177,0.008122#
+urn:cite2:hmt:paleo.v1:leiden_vb_1#urn:cts:greekLit:tlg0012.tlg001.msB:17.151@ω#urn:cite2:hmt:burney86.v1:burney_ms_86_f189v@0.2118,0.07943,0.01206,0.006498#
+urn:cite2:hmt:paleo.v1:leiden_vb_1#urn:cts:greekLit:tlg0012.tlg001.msB:17.151@εσσ#urn:cite2:hmt:burney86.v1:burney_ms_86_f189v@0.2240,0.07700,0.01594,0.009259#εσσ ligature
+urn:cite2:hmt:paleo.v1:leiden_vb_1#urn:cts:greekLit:tlg0012.tlg001.msB:17.151@ι#urn:cite2:hmt:burney86.v1:burney_ms_86_f189v@0.2392,0.07911,0.004906,0.007310#
+urn:cite2:hmt:paleo.v1:leiden_vb_1#urn:cts:greekLit:tlg0012.tlg001.msB:17.151@ν#urn:cite2:hmt:burney86.v1:burney_ms_86_f189v@0.2424,0.07943,0.01022,0.008122#
+urn:cite2:hmt:paleo.v1:leiden_vb_1#urn:cts:greekLit:tlg0012.tlg001.msB:17.151@α#urn:cite2:hmt:burney86.v1:burney_ms_86_f189v@0.2588,0.07765,0.01267,0.009584#
+urn:cite2:hmt:paleo.v1:leiden_vb_1#urn:cts:greekLit:tlg0012.tlg001.msB:17.151@π#urn:cite2:hmt:burney86.v1:burney_ms_86_f189v@0.2692,0.08122,0.009199,0.008122#
+urn:cite2:hmt:paleo.v1:leiden_vb_1#urn:cts:greekLit:tlg0012.tlg001.msB:17.151@ει#urn:cite2:hmt:burney86.v1:burney_ms_86_f189v@0.2772,0.08073,0.007768,0.01040#ει ligature
+urn:cite2:hmt:paleo.v1:leiden_vb_1#urn:cts:greekLit:tlg0012.tlg001.msB:17.151@λ#urn:cite2:hmt:burney86.v1:burney_ms_86_f189v@0.2854,0.08187,0.007563,0.007310#
+urn:cite2:hmt:paleo.v1:leiden_vb_1#urn:cts:greekLit:tlg0012.tlg001.msB:17.151@η#urn:cite2:hmt:burney86.v1:burney_ms_86_f189v@0.2909,0.08317,0.007768,0.006335#
+urn:cite2:hmt:paleo.v1:leiden_vb_1#urn:cts:greekLit:tlg0012.tlg001.msB:17.151@σ#urn:cite2:hmt:burney86.v1:burney_ms_86_f189v@0.2999,0.08398,0.006950,0.005848#
+urn:cite2:hmt:paleo.v1:leiden_vb_1#urn:cts:greekLit:tlg0012.tlg001.msB:17.151@α#urn:cite2:hmt:burney86.v1:burney_ms_86_f189v@0.3064,0.08366,0.008381,0.006985#
+urn:cite2:hmt:paleo.v1:leiden_vb_1#urn:cts:greekLit:tlg0012.tlg001.msB:17.151@σ#urn:cite2:hmt:burney86.v1:burney_ms_86_f189v@0.3144,0.08317,0.005315,0.007310#
+urn:cite2:hmt:paleo.v1:leiden_vb_1#urn:cts:greekLit:tlg0012.tlg001.msB:17.151@τ#urn:cite2:hmt:burney86.v1:burney_ms_86_f189v@0.3203,0.08415,0.01165,0.007310#
+urn:cite2:hmt:paleo.v1:leiden_vb_1#urn:cts:greekLit:tlg0012.tlg001.msB:17.151@ε#urn:cite2:hmt:burney86.v1:burney_ms_86_f189v@0.1413,0.09064,0.009403,0.008934#
+urn:cite2:hmt:paleo.v1:leiden_vb_1#urn:cts:greekLit:tlg0012.tlg001.msB:17.151@π#urn:cite2:hmt:burney86.v1:burney_ms_86_f189v@0.1500,0.09178,0.01145,0.007635#
+urn:cite2:hmt:paleo.v1:leiden_vb_1#urn:cts:greekLit:tlg0012.tlg001.msB:17.151@α#urn:cite2:hmt:burney86.v1:burney_ms_86_f189v@0.1592,0.09064,0.008585,0.008122#
+urn:cite2:hmt:paleo.v1:leiden_vb_1#urn:cts:greekLit:tlg0012.tlg001.msB:17.151@ν#urn:cite2:hmt:burney86.v1:burney_ms_86_f189v@0.1668,0.09292,0.008994,0.006985#
+urn:cite2:hmt:paleo.v1:leiden_vb_1#urn:cts:greekLit:tlg0012.tlg001.msB:17.151@ο#urn:cite2:hmt:burney86.v1:burney_ms_86_f189v@0.1768,0.09340,0.005724,0.005686#
+urn:cite2:hmt:paleo.v1:leiden_vb_1#urn:cts:greekLit:tlg0012.tlg001.msB:17.151@δ#urn:cite2:hmt:burney86.v1:burney_ms_86_f189v@0.1762,0.09340,0.006541,0.005686#
+urn:cite2:hmt:paleo.v1:leiden_vb_1#urn:cts:greekLit:tlg0012.tlg001.msB:17.151@π#urn:cite2:hmt:burney86.v1:burney_ms_86_f189v@0.1987,0.09405,0.01186,0.007472#
+urn:cite2:hmt:paleo.v1:leiden_vb_1#urn:cts:greekLit:tlg0012.tlg001.msB:17.151@α#urn:cite2:hmt:burney86.v1:burney_ms_86_f189v@0.2093,0.09259,0.007972,0.007635#
