@@ -21,7 +21,7 @@
             <body>
                 <div n="T_189r_1" type="scholion">
                     <div n="lemma">
-                        <p><num value="?">?</num><unclear>οἴκαδ᾽ἰμεν</unclear></p>
+                        <p><g ref="#double-curly-pipe"/><unclear>οἴκαδ᾽ἰμεν</unclear></p>
                     </div>
                     <div n="ref">
                         <p>urn:cts:greekLit:tlg0012.tlg001.T:17.155@οἴκαδ᾽ἰμεν</p>
@@ -32,10 +32,10 @@
                 </div>
                 <div n="T_189r_2" type="scholion">
                     <div n="lemma">
-                        <p><num value="?">?</num><unclear>οἴκαδ᾽ἰμεν</unclear></p>
+                        <p><g ref="#sigma-curly-pipe"/>εἰ γὰρ νῦν Τρώεσσιν</p>
                     </div>
                     <div n="ref">
-                        <p>urn:cts:greekLit:tlg0012.tlg001.T:17.@εἰ γὰρ νῦν Τρώεσσιν</p>
+                        <p>urn:cts:greekLit:tlg0012.tlg001.T:17.156@εἰ γὰρ νῦν Τρώεσσιν</p>
                     </div>
                     <div n="comment">
                         <p>απειλήσας τὴν ἐπάνοδον, πάλιν προτρέπει ἐπὶ τὴν βοήθειαν~ ὄρυξομένου καὶ κηδομεν ού ἐμφαίνων διάθεσιν⁑</p>
@@ -43,10 +43,10 @@
                 </div>
                 <div n="T_189r_3" type="scholion">
                     <div n="lemma">
-                        <p><num value="?"></num></p>
+                        <p><g ref="#sigma-colon-curly-pipe"/>τοίου γὰρ θεράπων</p>
                     </div>
                     <div n="ref">
-                        <p>urn:cts:greekLit:tlg0012.tlg001.T:17.155@τοίου γὰρ θεράπων</p>
+                        <p>urn:cts:greekLit:tlg0012.tlg001.T:17.164@τοίου γὰρ θεράπων</p>
                     </div>
                     <div n="comment">
                         <p>τεχνικῆς μέγα δείκνυσι τὸ κατόρθωμα προτρέπων αὐτούς⁑</p>
@@ -54,7 +54,7 @@
                 </div>
                     <div n="T_189r_4" type="scholion">
                         <div n="lemma">
-                            <p><num value="?"></num></p>
+                            <p><num value="?"></num>τοίου γὰρ θεράπων</p>
                         </div>
                         <div n="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.T:17.155@τοίου γὰρ θεράπων</p>
@@ -65,10 +65,10 @@
                     </div>
                     <div n="T_189r_5" type="scholion">
                         <div n="lemma">
-                            <p><num value="?"></num></p>
+                            <p><g ref="#arrow"/>κατ' ὄσσε ἰδών</p>
                         </div>
                         <div n="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.T:17.155@κατ' ὄσσε ἰδών</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.T:17.167@κατ' ὄσσε ἰδών</p>
                         </div>
                         <div n="comment">
                             <p>οὐκ ἀντιμαχέσασθαι ἀλλ' οὐδὲ ἀντιβλέψαι⁑</p>
@@ -76,10 +76,10 @@
                 </div>
                 <div n="T_189r_6" type="scholion">
                     <div n="lemma">
-                        <p><num value="?"></num></p>
+                        <p><g ref="#two-runged-sigma"/>Γλαῦκε</p>
                     </div>
                     <div n="ref">
-                        <p>urn:cts:greekLit:tlg0012.tlg001.T:17.155@Γλαῦκε</p>
+                        <p>urn:cts:greekLit:tlg0012.tlg001.T:17.170@Γλαῦκε</p>
                     </div>
                     <div n="comment">
                         <p>οὐκ εὐπορῶν ἀπολογίας πρὸς μὲν τὰ κατηγορηθέντα, ἀποκρίνεται· ὡς ὑβρισμένος  δὲ ἀγανάκτει·
